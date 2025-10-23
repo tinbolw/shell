@@ -1,0 +1,2 @@
+# shell
+using quickshell
